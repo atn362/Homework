@@ -1,3 +1,7 @@
+![resume1](https://user-images.githubusercontent.com/77468756/124702622-43edbc80-deb6-11eb-86e7-ee816ac121a6.png)
+![resume2](https://user-images.githubusercontent.com/77468756/124702626-45b78000-deb6-11eb-97a7-d9a072246fa9.png)
+
+
 # Homework modifications for the Horiseon Homepage
 
 I embarked on this task, in order to streamline some aspects of the code of this website, as well as reduce the redundancies that i found present in the css file.
